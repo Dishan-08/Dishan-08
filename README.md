@@ -22,6 +22,8 @@ I am a final year Software Engineering student majoring in **Data Science**. I l
 
 ---
 
+---
+
 ### 📈 GitHub Stats
 
 ![Dishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dishan-08&show_icons=true&theme=radical)
@@ -30,4 +32,8 @@ I am a final year Software Engineering student majoring in **Data Science**. I l
 ---
 
 ### 📫 Connect with me:
-[LinkedIn](www.linkedin.com/in/dishan08) | [Email](dishandey131@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/dishan08](https://www.linkedin.com/in/dishan08/)
+- 📧 **Email:** [dishandey131@gmail.com](mailto:dishandey131@gmail.com)
+- ⚽ **Passion:** Analyzing football stats & building data stories!
+
+---
